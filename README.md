@@ -1,1 +1,1 @@
-# Bynary-Tree
+# Binary-Tree
